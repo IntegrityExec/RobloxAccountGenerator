@@ -1,5 +1,7 @@
 # Roblox Account Generator
 
+Please join the discord! https://discord.gg/eYD4ap9Vmc
+
 This Python script automates the creation of Roblox accounts with unique usernames and secure passwords. The main goal of this project is educational, demonstrating web automation and data manipulation in Python.
 
 ## Requirements
