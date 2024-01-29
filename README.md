@@ -32,6 +32,8 @@ This project does not include an automatic captcha solving system OTHER THAN NOP
 
 In the `main.py` file, you can change the Nopecha key and add a Discord Webhook (DISCORD BOT SOON)
 
+ONLY ONE CAPTCHA SOLVER AT A TIME! LEAVE THE OTHER KEY EMPTY
+
 ## Recommendations
 
 - Use this script responsibly and ethically.
