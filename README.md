@@ -19,7 +19,7 @@ This project does not include an automatic captcha solving system OTHER THAN NOP
 ## How to Use
 
 1. Copy the `main.py` script.
-2. Install dependencies: `pip install selenium secrets requests`
+2. Install dependencies: `pip install pystyle colorama selenium`
 3. Download the WebDriver corresponding to your browser and place it in the same directory as the script.
 4. Run the script: `python main.py`
 
